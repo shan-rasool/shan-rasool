@@ -60,12 +60,13 @@ Welcome to my GitHub! I'm **Shan Rasool**, a passionate cybersecurity analyst wi
 
 ---
 
+<!--
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Awais%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link)
-
+-->
 ---
 
 ### 💡 *"Cybersecurity is not just about tools — it's about mindset, method, and mastery."*
