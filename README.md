@@ -50,14 +50,13 @@ Welcome to my GitHub! I'm **Shan Rasool**, a passionate cybersecurity analyst wi
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Professional Status
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shan-rasool?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/shan-rasool?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/shan-rasool/shan-rasool?label=Last%20Commit&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Cybersecurity-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-orange?style=for-the-badge" />
 </p>
-
 
 ---
 
